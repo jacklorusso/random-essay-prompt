@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: "Crimson Text", serif;
+  font-family: "Crimson Text", Georgia, serif;
   font-size: 24px;
 }
 
@@ -10,4 +10,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+p {
+  margin: 1em;
 }

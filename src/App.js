@@ -10,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <div className="wrapper">
-        <blockquote>{randomDescription(quotes)}</blockquote>
+        <p>{randomDescription(quotes)}</p>
       </div>
     );
   }
